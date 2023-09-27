@@ -3,10 +3,10 @@ A medical student who loves programming
 
 #### 👨🏼‍💻 I’m currently working on
 
-[asmedunina.it](https://asmedunina.it): The website of a university students association
+[ASMED UNINA Website](https://asmedunina.it): official website of a medical students association
 
 ⚡️ **Techs:** Frontend with `React`, `Remix`, `Tailwind` & `Typescript`, Backend with `Bun`, `Postgres` & `Redis`
----
+
 Teevi - A **work-in-progress** streaming app for iPhone/iPad/Mac
 
 ⚡️ **Techs:** `Swift` & `SwiftUI`

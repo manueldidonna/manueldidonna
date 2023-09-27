@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Manuel 👋
+A medical student who loves programming
+
+### 👨🏼‍💻 I’m currently working on
+
+[asmedunina.it](https://asmedunina.it): The website of a university students association
+
+⚡️ **Techs:** Frontend with `React`, `Remix`, `Tailwind` & `Typescript`, Backend with `Bun`, `Postgres` & `Redis`
+
+Teevi - A **work-in-progress** streaming app for iPhone/iPad/Mac
+
+⚡️ **Techs:** `Swift` & `SwiftUI`
 
 <!--
 **manueldidonna/manueldidonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
